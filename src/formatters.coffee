@@ -3,3 +3,4 @@ module.exports =
   'cli-table' : require './formatters/cli-table'
   'simple'    : require './formatters/simple'
   'json'      : require './formatters/json'
+  'json-simple'      : require './formatters/json-simple'
