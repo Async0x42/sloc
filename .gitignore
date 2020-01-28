@@ -1,7 +1,5 @@
-lib
 node_modules
 *.swp
-lib/
 *.bak
 *.tmp
 npm-debug.log
